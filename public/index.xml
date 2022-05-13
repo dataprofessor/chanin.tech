@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chanin Nantasenamat</title>
+    <link>//chanin.tech/</link>
+    <description>Recent content on Chanin Nantasenamat</description>
+    <image>
+      <url>//chanin.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//chanin.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2022 23:15:00 +0700</lastBuildDate><atom:link href="//chanin.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//chanin.tech/about/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/about/</guid>
+      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
+At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
+ 📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub  In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
+ Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab  You can also connect with me at the following social platforms:</description>
+    </item>
+    
+    <item>
+      <title>Infographics</title>
+      <link>//chanin.tech/infographics/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/infographics/</guid>
+      <description>I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>How to master Streamlit for Data Science</title>
+      <link>//chanin.tech/blogs/how-to-master-streamlit-for-data-science/</link>
+      <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <description>Preview The essential Streamlit for all your data science needs To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.
+Streamlit makes the app creation process as simple as writing Python scripts!
+In this article, you’ll learn how to master Streamlit when getting started with data science.</description>
+    </item>
+    
+    <item>
+      <title>Towards reproducible computational drug discovery</title>
+      <link>//chanin.tech/projects/reproducible-computational-drug-discovery/</link>
+      <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/projects/reproducible-computational-drug-discovery/</guid>
+      <description>Abstract The reproducibility of experiments has been a long standing impediment for further scientific progress. Computational methods have been instrumental in drug discovery efforts owing to its multifaceted utilization for data collection, pre-processing, analysis and inference. This article provides an in-depth coverage on the reproducibility of computational drug discovery. This review explores the following topics: (1) the current state-of-the-art on reproducible research, (2) research documentation (e.g. electronic laboratory notebook, Jupyter notebook, etc.</description>
+    </item>
+    
+    <item>
+      <title>ERpred: a web server for the prediction of subtype-specific estrogen receptor antagonists</title>
+      <link>//chanin.tech/projects/erpred/</link>
+      <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/projects/erpred/</guid>
+      <description>Abstract Estrogen receptors alpha and beta (ERα and ERβ) are responsible for breast cancer metastasis through their involvement of clinical outcomes. Estradiol and hormone replacement therapy targets both ERs, but this often leads to an increased risk of breast and endometrial cancers as well as thromboembolism. A major challenge is posed for the development of compounds possessing ER subtype specificity. Herein, we present a large-scale classification structure-activity relationship (CSAR) study of inhibitors from the ChEMBL database which consisted of an initial set of 11,618 compounds for ERα and 7,810 compounds for ERβ.</description>
+    </item>
+    
+    <item>
+      <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
+      <link>//chanin.tech/projects/acetylcholinesterase/</link>
+      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/projects/acetylcholinesterase/</guid>
+      <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
+    </item>
+    
+    <item>
+      <title>What Is Bioinformatics</title>
+      <link>//chanin.tech/blogs/what-is-bioinformatics/</link>
+      <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>//chanin.tech/blogs/what-is-bioinformatics/</guid>
+      <description>Introduction So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.
+In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.
+As a biologist, I have self-taught myself data science and coding (R and Python) after several years of persistence (initially quitting a couple of times the coding concept just kind of clicked at some point in time).</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>//chanin.tech/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>//chanin.tech/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
